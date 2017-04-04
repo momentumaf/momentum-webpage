@@ -42,11 +42,12 @@ header {
 
 footer {
   padding: 0.611em 1.222em;
-  color: #7f7f7f;
-  font-size: 0.666em;
-  margin-bottom: -12.22%;
-  margin-left: -1.322em;
-  margin-right: -1.322em;
+  color: #ffffff;
+  font-size: 0.444em;
+  margin-left: 35%;
+  margin-right: 35%;
+  position: relative;
+  bottom:0;
 }
 
 form {
@@ -105,7 +106,10 @@ form {
   }
 
   footer {
-    padding-left: 3.664em;
+    margin-left: 35%;
+    margin-right: 35%;
+    position: relative;
+    bottom:0;
   }
 
   label {
@@ -127,7 +131,10 @@ form {
   }
 
   footer {
-    text-align: center;
+    margin-left: 35%;
+    margin-right: 35%;
+    position: relative;
+    bottom:0;
   }
 
   form {
@@ -155,7 +162,10 @@ form {
   }
 
   footer {
-    text-align: center;
+    margin-left: 35%;
+    margin-right: 35%;
+    position: relative;
+    bottom:0;
   }
 
   form {
